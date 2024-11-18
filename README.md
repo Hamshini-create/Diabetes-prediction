@@ -1,2 +1,2 @@
-# Diabetes-prediction
-This repository hosts an Android application for predicting diabetes risk, developed using a trained machine learning model. The backend API is built with FastAPI, utilizing an ngrok tunnel to enable secure communication with the app, created in MIT App Inventor. 
+# android-app-for-diabetes-prediction-ml-model
+This repository is about building an Android app using MIT App Inventor by using a ML model hosted as API on Ngrok.
